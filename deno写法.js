@@ -11,10 +11,10 @@ try {
     timeout: 10000,
     // apiKey: OPENAI_API_KEY, // 或者这么直接传入 apiKey
     configuration: {
-      baseURL: "https://gitaigc.com/v1",
-      // baseURL: "https://api.deepseek.com/v1",
+      // baseURL: "https://gitaigc.com/v1",
+      baseURL: "https://api.deepseek.com/v1",
     },
-    // model: "deepseek-chat", // deepseek 需要显示指定模型
+    model: "deepseek-chat", // deepseek 需要显示指定模型
   });
 
   const result = await chatModel.invoke("what is LangSmith?");
