@@ -194,6 +194,11 @@ digest-fetch@^1.3.0:
     base-64 "^0.1.0"
     md5 "^2.3.0"
 
+dotenv@^16.4.5:
+  version "16.4.5"
+  resolved "http://r.npm.sankuai.com/dotenv/download/dotenv-16.4.5.tgz#cdd3b3b604cb327e286b4762e13502f717cb099f"
+  integrity sha1-zdOztgTLMn4oa0di4TUC9xfLCZ8=
+
 event-target-shim@^5.0.0:
   version "5.0.1"
   resolved "http://r.npm.sankuai.com/event-target-shim/download/event-target-shim-5.0.1.tgz#5d4d3ebdf9583d63a5333ce2deb7480ab2b05789"
