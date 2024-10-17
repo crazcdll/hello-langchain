@@ -1,4 +1,3 @@
-// const OPENAI_API_KEY = "sk-xDO0y7ctk5PZGuAIFb417058E37f4b05BeF1E00538E091Bc";
 import "dotenv/config"; // 加了这行就会加载 .env 文件
 import { ChatOpenAI } from "@langchain/openai";
 
