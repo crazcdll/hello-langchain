@@ -8,9 +8,9 @@
   integrity sha512-ZykIcDTVv5UNmKWSTLAs3VukO6NDJkkSKxrgUTDPBkAlORVT3H9n5DbRjRl8xIotklscHdbLIa0b9+y3mQq73g==
 
 "@langchain/community@^0.3.6":
-  version "0.3.19"
-  resolved "https://registry.npmmirror.com/@langchain/community/-/community-0.3.19.tgz#6104f244f5c0161e3f7e4929cd69e9fa25ebe94b"
-  integrity sha512-7ygPPC9eaIq6Bkv7Z3Vz8PxKjCEi0FCyOuK3e5fafm7ahqX0JXDxnBADObDJ7euFWTKXYFiXDYdoJI/BGlm1PQ==
+  version "0.3.20"
+  resolved "https://registry.npmmirror.com/@langchain/community/-/community-0.3.20.tgz#1c2dc6ab2837fe3d52c83c0d1602ed5ba54bfa8d"
+  integrity sha512-5XmguFWVrfYJ8s9kHPAmC1bTGfdVOKqzWVCoTolSXMVMDaVn+LVvCJxEedO01kU1y2AS4pUl5MDI9wssKS1Ehg==
   dependencies:
     "@langchain/openai" ">=0.2.0 <0.4.0"
     binary-extensions "^2.2.0"
@@ -235,9 +235,9 @@ domhandler@^5.0.2, domhandler@^5.0.3:
     domelementtype "^2.3.0"
 
 domutils@^3.0.1, domutils@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.npmmirror.com/domutils/-/domutils-3.1.0.tgz#c47f551278d3dc4b0b1ab8cbb42d751a6f0d824e"
-  integrity sha512-H78uMmQtI2AhgDJjWeQmHwJJ2bLPD3GMmO7Zja/ZZh84wkm+4ut+IUnUdRa8uCGX88DiVx1j6FRe1XfxEgjEZA==
+  version "3.2.1"
+  resolved "https://registry.npmmirror.com/domutils/-/domutils-3.2.1.tgz#b39f4c390a1ae6f6a2c56a5f5a16d6438b6bce28"
+  integrity sha512-xWXmuRnN9OMP6ptPd2+H0cCbcYBULa5YDTbMm/2lvkWvNA3O4wcW+GvzooqBuNM8yy6pl3VIAeJTUUWUbfI5Fw==
   dependencies:
     dom-serializer "^2.0.0"
     domelementtype "^2.3.0"
@@ -352,9 +352,9 @@ jsonpointer@^5.0.1:
   integrity sha512-p/nXbhSEcu3pZRdkW1OfJhpsVtW1gd4Wa1fnQc9YLiTfAjn0312eMKimbdIQzuZl9aa9xUGaRlP9T/CJE/ditQ==
 
 "langchain@>=0.2.3 <0.3.0 || >=0.3.4 <0.4.0", langchain@^0.3.2:
-  version "0.3.7"
-  resolved "https://registry.npmmirror.com/langchain/-/langchain-0.3.7.tgz#a0d2010a9f2dab473eaebfaac5228fac7c2a6f17"
-  integrity sha512-6/Gkk9Zez3HkbsETFxZVo1iKLmaK3OzkDseC5MYFKVmYFDXFAOyJR3srJ9P61xF8heVdsPixqYIsejBn7/9dXg==
+  version "0.3.8"
+  resolved "https://registry.npmmirror.com/langchain/-/langchain-0.3.8.tgz#285bb291a686daf063717c12e06fda76335b9270"
+  integrity sha512-EiAHFgBdThuXFmIx9j81wjdPItpRsw0Ck4r5dyhB74gyhehRGna/UK2CTqeKVnIUM/f4g4JbxUgAU4voXljDMw==
   dependencies:
     "@langchain/openai" ">=0.1.0 <0.4.0"
     "@langchain/textsplitters" ">=0.0.0 <0.2.0"
