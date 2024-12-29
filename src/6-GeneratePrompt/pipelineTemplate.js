@@ -2,7 +2,7 @@
 import "dotenv/config"; // 加了这行就会加载 .env 文件
 import { ChatOpenAI } from "@langchain/openai";
 import { StringOutputParser } from "@langchain/core/output_parsers";
-import { PipelinePromptTemplate, PromptTemplate } from "langchain/prompts";
+import { PipelinePromptTemplate, PromptTemplate } from "@langchain/core/prompts";
 
 try {
   const getCurrentDateStr = () => {
